@@ -43,6 +43,7 @@ namespace ATMApp.Application.Services.TokenService
             userToken.RefreshToken = CreateRefreshToken();
 
             return userToken;
+            //asdfdsafdf
         }
 
         public string CreateRefreshToken()
